@@ -1,7 +1,5 @@
-import Image from "next/image";
-
-// five pastel colors
 const colors = ["#FFD700", "#FF69B4", "#00FF00", "#87CEEB", "#FFA500"];
+
 export default function Home() {
   return (
     <main>
